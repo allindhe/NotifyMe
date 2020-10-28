@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editBoxTitleHeight">70dp</dimen>
+    <dimen name="editBoxTitleWidth">220dp</dimen>
+
+    <dimen name="editBoxDescriptionHeight">50dp</dimen>
+    <dimen name="editBoxDescriptionWidth">280dp</dimen>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+
+    <string name="CHANNEL_ID">NotifyMe</string>
+    <string name="channel_name">Notice me!</string>
+    <string name="channel_description">Look at you going through the settings! Curious one aren\'t ya!</string>
+
+    <string name="gratitudeMessageAd">Thanks, you\'re awesome!</string>
+
+    <string name="notifyButtonText">#Notify</string>
+    <string name="editTextTitleHint">Title</string>
+    <string name="editTextDescriptionHint">Description</string>
+
+    <string name="adID">ca-app-pub-6178396627742056~7596963775</string>
+
+    <string name="sharedPreferencesFile">NotifyMeSharedPreferences</string>
+    <string name="spAdCounter1">adCounterInterstitialAd1</string>
+    <string name="spTutorialHasBeenRunInVersion">tutorialHasBeenRunInVersion</string>
+
+</resources>
